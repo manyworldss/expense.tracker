@@ -39,7 +39,7 @@ Category (str)
 Description (str)
 Date (Optional[datetime]) - defaults to the current date
 
-Future Features
+Future Features:
 
 Data visualization
 
