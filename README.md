@@ -27,21 +27,26 @@ expense = Expense(
 Requirements
 
 Python 3.7+
+
 No external dependencies
 
 Structure
+
 The Expense class stores:
 
 Amount (float)
 Category (str)
 Description (str)
-Date (Optional[datetime]) - defaults to current date
+Date (Optional[datetime]) - defaults to the current date
 
 Future Features
 
 Data visualization
+
 Budget tracking
+
 GUI interface
+
 Database storage
 
 License
